@@ -1,7 +1,7 @@
 'use strict';
 const express = require('express');
 
-const RidesRouter = (client) => {
+const RidesRouter = () => {
   const router = express.Router();
 
   router.route('/').get((req, res) => {
