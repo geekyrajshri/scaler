@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: database/connection.js
+  checksum: 61c7a840780e64b31ac261907ab2a9f8183c41ae61e4c6e3db474f84fbd14362
+- filename: package-lock.json
+  checksum: f2b29d8969b750ecf52d8a28944c6065834436ca76ccd993ebff90ead2348e96
